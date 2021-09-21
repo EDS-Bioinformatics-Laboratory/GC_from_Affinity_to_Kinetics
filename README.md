@@ -26,7 +26,8 @@ a.h.vankampen@amsterdamumc.nl (AvK)
 tel. +31-20-5667096 
 </sup>
 
-# GC_from_Affinity_to_Kinetics 
+
+# Software
 This repository includes codes and nesseccary files for runing simulatios. The Agent-based model is based on [Meyer-Hermann et al., 2012] and [Robert et al., 2017].
 
 Different scenarios can be modelled by codes provided in different folders:
@@ -34,7 +35,6 @@ Different scenarios can be modelled by codes provided in different folders:
    SC1: Scenario-1 in the manuscript
    SC2: SCenario-2 in the manuscript
 
-# Software
 All software is written in C++. All the parameters used are borrowed from the original model [Meyer-Hermann et al., 2012] except parameter $\theta$ that is explained in the manuscript. To change the parameters, use parameters.cpp
 
 ### Run simulations   
