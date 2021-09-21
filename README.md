@@ -16,15 +16,15 @@ Danial Lashgari1, Elena Merino Tjiero<sup>1</sup>, Michael Meyer-Hermann<sup>2,3
 </sup>
 
 <sup>
-#Contributed equally 
-*Corresponding author: 
-Antoine H.C. van Kampen
-Bioinformatics Laboratory
-Epidemiology & Data Science
-Amsterdam University Medical Centers
-Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands
-a.h.vankampen@amsterdamumc.nl (AvK)
-tel. +31-20-5667096 
+#Contributed equally<br> 
+*Corresponding author:<br> 
+Antoine H.C. van Kampen<br>
+Bioinformatics Laboratory<br>
+Epidemiology & Data Science<br>
+Amsterdam University Medical Centers<br>
+Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands<br>
+a.h.vankampen@amsterdamumc.nl (AvK)<br>
+tel. +31-20-5667096 <br>
 </sup>
 
 
