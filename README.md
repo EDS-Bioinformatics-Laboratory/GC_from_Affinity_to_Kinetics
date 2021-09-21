@@ -45,9 +45,9 @@ make
 run ./KONKOFF </br>
  
 #### Options 
- -s "random seed": The default random seed is 1, when running simulations in parallel, this option can be used to assign random seeds for each run. <br> 
- -o "Path of output folder": Specifies where the output files will be stored. 
-___________________________________________________________________________________________________________________________________________________________________________________
+ -s "random seed": <sup> The default random seed is 1, when running simulations in parallel, this option can be used to assign random seeds for each run. </sup> <br> 
+ -o "Path of output folder": <sup> Specifies where the output files will be stored. </sup> 
+
 ## References
 * Meyer-Hermann, M., et al. (2012). "A theory of germinal center B cell selection, division, and exit." Cell Rep 2(1): 162-174.
 * Robert, P. A., et al. (2017). "How to Simulate a Germinal Center." Methods Mol Biol 1623: 303-334.
